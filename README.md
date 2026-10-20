@@ -3,14 +3,7 @@
 A sales analytics project built using **Microsoft Excel** to explore sales performance, identify revenue trends, and turn raw data into meaningful business insights.
 
 ## Dashboard Preview
-
-### Sales Performance & Product Insights
-
-![Sales Performance Dashboard](images/sales-performance.png)
-
-### Sales Trends, Cities & Order Timing
-
-![Sales Trends Dashboard](images/sales-trends.png)
+<img width="1102" height="502" alt="Screenshot 2026-10-19 152702" src="https://github.com/user-attachments/assets/ef1298e9-3317-45cb-9a40-f1d8c5c01fc7" />
 
 ## Explore the Dashboard
 
