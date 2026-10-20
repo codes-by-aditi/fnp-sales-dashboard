@@ -10,7 +10,8 @@ The main goal of this project was to practice analyzing sales data, creating mea
 
 ### 1. Sales Performance & Product Insights
 
-![FNP Sales Performance Dashboard](images/dashboard_overview.png)
+![FNP Sales Performance Dashboard](![Uploading image.png…]()
+)
 
 This dashboard section focuses on understanding which occasions, product categories, and products contribute to revenue.
 
