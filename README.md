@@ -10,8 +10,7 @@ The main goal of this project was to practice analyzing sales data, creating mea
 
 ### 1. Sales Performance & Product Insights
 
-![FNP Sales Performance Dashboard](![Uploading image.png…]()
-)
+<img width="667" height="287" alt="Screenshot 2026-10-20 163239" src="https://github.com/user-attachments/assets/df89fc77-fcc7-45f3-afc0-a2584dd3b804" />
 
 This dashboard section focuses on understanding which occasions, product categories, and products contribute to revenue.
 
@@ -22,7 +21,8 @@ It includes:
 
 ### 2. Sales Trends, Cities & Order Timing
 
-![FNP Sales Trends Dashboard](images/dashboard_trends.png)
+<img width="667" height="287" alt="Screenshot 2026-10-20 163239" src="https://github.com/user-attachments/assets/de577205-13ba-45bd-b7e0-416bad991799" />
+
 
 This section explores sales patterns over time and order distribution across locations.
 
