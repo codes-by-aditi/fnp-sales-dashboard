@@ -1,116 +1,86 @@
-# 🌸 FNP Interactive Sales Dashboard | Excel Project
+# FNP Interactive Sales Dashboard | Excel Project
 
-Hi! 👋 Welcome to my project.
+A sales analytics project built using **Microsoft Excel** to explore sales performance, identify revenue trends, and turn raw data into meaningful business insights.
 
-This is one of my data analytics projects, where I used Microsoft Excel to create an interactive sales dashboard for **Ferns N Petals (FNP)**.
+## Dashboard Preview
 
-The main goal of this project was to practice analyzing sales data, creating meaningful charts, and presenting insights in a simple and visual way.
+### Sales Performance & Product Insights
 
-## 📊 Dashboard Preview
+![Sales Performance Dashboard](images/sales-performance.png)
 
-### 1. Sales Performance & Product Insights
+### Sales Trends, Cities & Order Timing
 
-<img width="667" height="287" alt="Screenshot 2026-10-20 163239" src="https://github.com/user-attachments/assets/df89fc77-fcc7-45f3-afc0-a2584dd3b804" />
+![Sales Trends Dashboard](images/sales-trends.png)
 
-This dashboard section focuses on understanding which occasions, product categories, and products contribute to revenue.
+## Explore the Dashboard
 
-It includes:
-- Revenue by Occasion
-- Revenue by Product Category
-- Top 5 Products by Revenue
+**[View the Interactive Excel Dashboard](https://1drv.ms/x/c/fbc7473a2e119bfa/IQAmmjGVIUELQYVdfRJRL_ZVAd8r9xCKIWGdwevTaCaI2KE?e=5DZH7Q)**
 
-### 2. Sales Trends, Cities & Order Timing
+Explore the dashboard using filters for order date, delivery date, and occasion.
 
-<img width="667" height="287" alt="Screenshot 2026-10-20 163239" src="https://github.com/user-attachments/assets/de577205-13ba-45bd-b7e0-416bad991799" />
+## Project at a Glance
 
+| KPI | Value |
+|---|---:|
+| Total Orders | 1,000 |
+| Total Revenue | ₹35,20,984 |
+| Average Delivery Time | 5.53 days |
+| Average Spend per Order* | ₹3,520.98 |
 
-This section explores sales patterns over time and order distribution across locations.
+*Confirm the calculation behind the spending metric before interpreting it as average spend per order.*
 
-It includes:
-- Monthly Revenue Trend
-- Top 10 Cities by Number of Orders
-- Revenue by Order Hour
+## What Does the Dashboard Analyze?
 
-## 🔗 View My Interactive Excel Dashboard
+- **Occasion Analysis:** Which occasions generate the most revenue?
+- **Category Analysis:** How do different product categories perform?
+- **Top 5 Products:** Which products contribute the highest revenue?
+- **Monthly Trends:** How does revenue change throughout the year?
+- **City Analysis:** Which cities have the highest order volumes?
+- **Order Timing:** How does revenue vary by hour of the day?
 
-📈 **[Click here to view my FNP Sales Dashboard](https://1drv.ms/x/c/fbc7473a2e119bfa/IQAmmjGVIUELQYVdfRJRL_ZVAd8r9xCKIWGdwevTaCaI2KE?e=5DZH7Q)**
+## Key Insights
 
-You can open the original Excel dashboard using the link above. Please make sure the sharing permissions allow viewers to access it.
+- **Anniversary** leads the displayed occasion analysis with ₹6,74,634 in revenue.
+- **Diwali** has the lowest displayed occasion revenue at ₹3,13,783.
+- **Colors** is the leading category by revenue in the dashboard.
+- **Magnam Set** appears among the strongest products by revenue.
+- Monthly and hourly charts help identify sales patterns worth investigating.
 
-## 🎯 What Was the Goal of This Project?
+These observations describe the dashboard's historical data; further analysis is needed to explain the causes behind these patterns.
 
-I wanted to learn how to turn sales data into useful information with the help of Excel.
+## Tools & Skills
 
-Through this project, I practiced:
-- Organizing and analyzing sales data.
-- Comparing revenue across occasions and product categories.
-- Identifying products with high revenue.
-- Understanding monthly revenue patterns.
-- Comparing order counts across cities.
-- Exploring how revenue varies by order hour.
-- Presenting information through charts and a dashboard.
+**Tools:** Microsoft Excel, PivotTables, PivotCharts, charts, interactive filters and slicers.
 
-## 🔍 Key Findings
+**Skills:** Data analysis, KPI tracking, revenue analysis, trend analysis, data visualization, dashboard design, and business insight generation.
 
-Here are some observations from my dashboard:
+## Business Opportunities
 
-- **Highest revenue by occasion:** Anniversary — ₹6,74,634.
-- **Lowest revenue by occasion:** Diwali — ₹3,13,783.
-- **Occasion comparison:** Anniversary and Raksha Bandhan show relatively high revenue in the supplied occasion summary.
-- **Product performance:** The dashboard highlights the top five products by revenue to make product comparisons easier.
-- **Monthly trends:** The monthly revenue chart helps identify months with higher and lower revenue.
-- **City-wise orders:** The city chart helps compare order volumes across the top 10 cities.
-- **Order timing:** The hourly revenue chart helps explore changes in revenue throughout the day.
+The analysis can help explore:
+- Occasion-based marketing and seasonal planning.
+- Product and category performance.
+- Regional sales opportunities.
+- Ordering patterns and delivery efficiency.
+- Profitability analysis in future dashboard versions.
 
-*These observations are based on the figures and charts displayed in my dashboard. Further analysis would be needed to understand the reasons behind these patterns.*
+## What I Learned
 
-## 🛠️ Tools & Skills I Practiced
+This project helped me practice transforming sales data into an interactive dashboard, selecting relevant KPIs, comparing business performance, and communicating findings through visualizations.
 
-### Tools Used
-- Microsoft Excel
-- Pivot Tables and Pivot Charts
-- Excel Charts
-- Dashboard Formatting and Design
+## What's Next?
 
-### Skills Learned
-- Data Analysis
-- Data Visualization
-- Revenue Analysis
-- Product and Category Comparison
-- Trend Analysis
-- City-wise Order Analysis
-- KPI Presentation
-- Creating an Interactive Dashboard
-- Communicating Findings Through Charts
+I'm continuing to develop my data analytics skills by learning **SQL, Python, and Power BI** and applying them to practical projects.
 
-## 💡 What I Learned
+## About Me
 
-While working on this project, I learned that data analysis is not just about calculating numbers. It is also about presenting information in a way that people can understand.
+**Aditi Chaudhary | Aspiring Data Analyst**
 
-I practiced selecting relevant metrics, comparing different categories, designing charts, and arranging them into a dashboard.
+I'm building hands-on projects to strengthen my skills in data analysis, visualization, and business reporting.
 
-I also improved my understanding of how visualizations can help identify patterns and support business decisions.
-
-## 🚀 What's Next?
-
-I plan to continue improving my data analytics skills by practicing:
-- More advanced Excel features.
-- SQL for querying and analyzing data.
-- Python for data cleaning and exploratory data analysis.
-- Power BI for building interactive dashboards.
-
-## 👩‍💻 About Me
-
-I'm learning data analytics and building projects to improve my practical skills.
-
-This project is a step in my learning journey, and I'm excited to keep practicing, exploring data, and creating more projects.
-
-Thanks for visiting my repository! 😊
-
-If you have any suggestions or feedback, I'd be happy to learn from them.
+**Project Links**
+- [GitHub Repository](https://github.com/codes-by-aditi/fnp-sales-dashboard)
+- [Interactive Excel Dashboard](https://1drv.ms/x/c/fbc7473a2e119bfa/IQAmmjGVIUELQYVdfRJRL_ZVAd8r9xCKIWGdwevTaCaI2KE?e=5DZH7Q)
 
 ---
 
-**Project:** FNP Interactive Sales Dashboard  
-**Created using:** Microsoft Excel  
-**Project type:** Learning Project | Data Analytics | Dashboard Design
+*Created using Microsoft Excel | Learning Project in Data Analytics*
